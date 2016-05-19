@@ -1,0 +1,40 @@
+# GTK+ Input Method Modules file
+# Automatically generated file, do not edit
+# Created by z:\opts\opt64-sjlj\bin\gtk-query-immodules-2.0.exe from gtk+-2.24.23
+#
+# ModulesPath = Z:\foss\msys\home\partha\.gtk-2.0\2.10.0\x86_64-w64-mingw32\immodules;Z:\foss\msys\home\partha\.gtk-2.0\2.10.0\immodules;Z:\foss\msys\home\partha\.gtk-2.0\x86_64-w64-mingw32\immodules;Z:\foss\msys\home\partha\.gtk-2.0\immodules;z:\opts\opt64-sjlj\lib\gtk-2.0\2.10.0\x86_64-w64-mingw32\immodules;z:\opts\opt64-sjlj\lib\gtk-2.0\2.10.0\immodules;z:\opts\opt64-sjlj\lib\gtk-2.0\x86_64-w64-mingw32\immodules;z:\opts\opt64-sjlj\lib\gtk-2.0\immodules
+#
+"z:/opts/opt64-sjlj/lib/gtk-2.0/2.10.0/immodules/im-am-et.dll" 
+"am_et" "Amharic (EZ+)" "gtk20" "/opt/share/locale" "am" 
+
+"z:/opts/opt64-sjlj/lib/gtk-2.0/2.10.0/immodules/im-cedilla.dll" 
+"cedilla" "Cedilla" "gtk20" "/opt/share/locale" "az:ca:co:fr:gv:oc:pt:sq:tr:wa" 
+
+"z:/opts/opt64-sjlj/lib/gtk-2.0/2.10.0/immodules/im-cyrillic-translit.dll" 
+"cyrillic_translit" "Cyrillic (Transliterated)" "gtk20" "/opt/share/locale" "" 
+
+"z:/opts/opt64-sjlj/lib/gtk-2.0/2.10.0/immodules/im-ime.dll" 
+"ime" "Windows IME" "gtk+" "" "ja:ko:zh" 
+
+"z:/opts/opt64-sjlj/lib/gtk-2.0/2.10.0/immodules/im-inuktitut.dll" 
+"inuktitut" "Inuktitut (Transliterated)" "gtk20" "/opt/share/locale" "iu" 
+
+"z:/opts/opt64-sjlj/lib/gtk-2.0/2.10.0/immodules/im-ipa.dll" 
+"ipa" "IPA" "gtk20" "/opt/share/locale" "" 
+
+"z:/opts/opt64-sjlj/lib/gtk-2.0/2.10.0/immodules/im-multipress.dll" 
+"multipress" "Multipress" "gtk20" "" "" 
+
+"z:/opts/opt64-sjlj/lib/gtk-2.0/2.10.0/immodules/im-thai.dll" 
+"thai" "Thai-Lao" "gtk20" "/opt/share/locale" "lo:th" 
+
+"z:/opts/opt64-sjlj/lib/gtk-2.0/2.10.0/immodules/im-ti-er.dll" 
+"ti_er" "Tigrigna-Eritrean (EZ+)" "gtk20" "/opt/share/locale" "ti" 
+
+"z:/opts/opt64-sjlj/lib/gtk-2.0/2.10.0/immodules/im-ti-et.dll" 
+"ti_et" "Tigrigna-Ethiopian (EZ+)" "gtk20" "/opt/share/locale" "ti" 
+
+"z:/opts/opt64-sjlj/lib/gtk-2.0/2.10.0/immodules/im-viqr.dll" 
+"viqr" "Vietnamese (VIQR)" "gtk20" "/opt/share/locale" "vi" 
+
+
