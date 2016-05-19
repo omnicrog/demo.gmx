@@ -4,6 +4,11 @@
 # Custom for Visual Studio
 *.cs     diff=csharp
 
+
+# Custom for Game Maker
+*.gmx	 diff=astextplain
+*.GMX  diff=astextplain
+
 # Standard to msysgit
 *.doc	 diff=astextplain
 *.DOC	 diff=astextplain
