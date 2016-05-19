@@ -7,7 +7,7 @@
 
 # Custom for Game Maker
 *.gmx	 diff=astextplain
-*.GMx	 diff=astextplain
+*.GMX  diff=astextplain
 
 # Standard to msysgit
 *.doc	 diff=astextplain
