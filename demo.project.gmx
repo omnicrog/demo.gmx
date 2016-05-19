@@ -4,22 +4,11 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound">
-    <sound>sound\sound0</sound>
-  </sounds>
-  <sprites name="sprites">
-    <sprite>sprites\sprite0</sprite>
-    <sprite>sprites\sprite1</sprite>
-    <sprite>sprites\fhfh</sprite>
-    <sprite>sprites\sprite3</sprite>
-    <sprite>sprites\newsprite</sprite>
-  </sprites>
+  <sounds name="sound"/>
+  <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
-  <scripts name="scripts">
-    <script>scripts\script0.gml</script>
-    <script>scripts\script1.gml</script>
-  </scripts>
+  <scripts name="scripts"/>
   <rooms name="rooms">
     <room>rooms\room0</room>
   </rooms>
